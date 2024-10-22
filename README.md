@@ -1,8 +1,7 @@
-# React + Vite
+#Приложение ТикТок
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Стэк: React, React Router, TypeScript, Redux Toolkit, RTK Query, Material UI, Tailwind
 
-Currently, two official plugins are available:
+Для того чтобы прогрузилась лента - нужно нажать на лого
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Демо](https://nestluu.github.io/TikTok/)
